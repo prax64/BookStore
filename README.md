@@ -1,9 +1,9 @@
 # BookStore
-Заказы приходят на почту:
-log: booookstore@yandex.ru
-pass: BookStore
+Заказы приходят на почту:  
+log: booookstore@yandex.ru  
+pass: BookStore  
 
-Данные от админки:
-url: /Account/Login
-log: admin
-pass: user123
+Данные от админки:  
+url: /Account/Login  
+log: admin  
+pass: user123  
